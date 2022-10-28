@@ -1,2 +1,2 @@
 # ConnectX-kaggle
-Playing round with ML Agents 
+Playing around with ML Agents 
